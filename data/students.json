@@ -1,0 +1,56 @@
+[
+  {
+    "id": "STU-005",
+    "name": "Imran Iqbal",
+    "age": 16,
+    "grade": "10th",
+    "email": "imran@smit.com",
+    "phone": "0320 2454886",
+    "performance_score": 92.5
+  },
+  {
+    "id": "STU-004",
+    "name": "Ashraf Raza",
+    "age": 17,
+    "grade": "11th",
+    "email": "ashraf@smit.com",
+    "phone": "0342 7419638",
+    "performance_score": 78.0
+  },
+  {
+    "id": "STU-003",
+    "name": "Khizar Zafar",
+    "age": 15,
+    "grade": "9th",
+    "email": "khizer@smit.com",
+    "phone": "0342 8527896",
+    "performance_score": 88.7
+  },
+  {
+    "id": "STU-002",
+    "name": "shehroz malik",
+    "age": 18,
+    "grade": "9th",
+    "email": "shehroz@smit.com",
+    "phone": "0324 8527419",
+    "performance_score": 78.5
+  },
+  {
+    "id": "STU-001",
+    "name": "shehroz",
+    "age": 16,
+    "grade": "9th",
+    "email": "shehroz@smit.com",
+    "phone": "0321254786",
+    "performance_score": 85.0
+  },
+  {
+    "id": "STU-006",
+    "name": "taimoor",
+    "age": 16,
+    "grade": "9th",
+    "email": "taimoor@smit.com",
+    "phone": "03217412589",
+    "performance_score": 67.0
+  }
+]
